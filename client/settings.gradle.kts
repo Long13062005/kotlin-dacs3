@@ -20,4 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Client"
-include ':app'
+include(":app")
+ 
