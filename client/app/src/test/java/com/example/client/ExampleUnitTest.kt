@@ -1,4 +1,4 @@
-package com.example.ui_dacs3
+package com.example.client
 
 import org.junit.Test
 
